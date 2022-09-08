@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently an emloyee [at Amber Software Solutions Ltd..](https://www.ambersoftwaresolutions.com/)
 
-- 🌱 I’m currently learning **Asp.NET, C# MVC, ERP **
+- 🌱 I’m currently learning **Asp.NET, C#, MVC, ERP, SQL **
 
 - 💬 Ask me about **Language Processing & Text Mining**
 
