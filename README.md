@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shovonsajal" target="blank"><img src="https://img.shields.io/twitter/follow/shovonsajal?logo=twitter&style=for-the-badge" alt="shovonsajal" /></a> </p>
 
-- 🔭 I’m currently an emloyee [at Amber Group](https://www.amber.com.bd/)
-
+- 🔭 I’m currently at UAH
 - 🌱 I’m currently learning **Asp.NET, C#, MVC, ERP, MS SQL **
 
 - 💬 Ask me about **Language Processing & Text Mining**
