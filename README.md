@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/shovonsajal" target="blank"><img src="https://img.shields.io/twitter/follow/shovonsajal?logo=twitter&style=for-the-badge" alt="shovonsajal" /></a> </p>
 
-- 🔭 I’m currently at UAH
+- 🔭 I’m currently at The University of Alabama in Huntsville
+- Studying Computer Engineering (PhD)
+- Working as a Graduate Research Assistant (Full-time)
 - 🌱 I’m currently learning ROS, Gazebo **
-- 
 - 💬 Ask me about **Intelligent Transportation**
 - 💬 Ask me about **Language Processing & Text Mining**
 
 - 📫 How to reach me **shovon030cse.kuet@gmail.com**
+- 📫 How to reach me **sajal.das.shovon@uah.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
