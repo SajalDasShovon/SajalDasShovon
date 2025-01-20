@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/shovonsajal" target="blank"><img src="https://img.shields.io/twitter/follow/shovonsajal?logo=twitter&style=for-the-badge" alt="shovonsajal" /></a> </p>
 
-- 🔭 I’m currently at The University of Alabama in Huntsville
-- Studying Computer Engineering (PhD)
-- Working as a Graduate Research Assistant (Full-time)
+- 🔭 I’m currently at Anderson University 
+- Studying Computer Science (MS)
+
 - 🌱 I’m currently learning ROS, Gazebo **
 - 💬 Ask me about **Intelligent Transportation**
 - 💬 Ask me about **Language Processing & Text Mining**
