@@ -13,7 +13,6 @@
 - 💬 Ask me about **Language Processing & Text Mining**
 
 - 📫 How to reach me **shovon030cse.kuet@gmail.com**
-- 📫 How to reach me **sajal.das.shovon@uah.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
