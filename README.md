@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/shovonsajal" target="blank"><img src="https://img.shields.io/twitter/follow/shovonsajal?logo=twitter&style=for-the-badge" alt="shovonsajal" /></a> </p>
 
 - 🔭 I’m currently at University of Memphis
-- Studying Computer Science (PhD) & working as Graduate Teaching Assistant
+- Studying Computer Science (PhD) & working as a Graduate Teaching Assistant
 
 - 🌱 I’m currently learning mHealth, AI for Wearables **
 - 💬 Ask me about **ML/DL/NLP**
