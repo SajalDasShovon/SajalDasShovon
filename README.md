@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shovonsajal" target="blank"><img src="https://img.shields.io/twitter/follow/shovonsajal?logo=twitter&style=for-the-badge" alt="shovonsajal" /></a> </p>
 
-- 🔭 I’m currently at Anderson University 
-- Studying Computer Science (MS)
+- 🔭 I’m currently at University of Memphis
+- Studying Computer Science (PhD)
 
-- 🌱 I’m currently learning ROS, Gazebo **
-- 💬 Ask me about **Intelligent Transportation**
+- 🌱 I’m currently learning mHealth, AI for Wearables **
+- 💬 Ask me about **ML/DL/NLP**
 - 💬 Ask me about **Language Processing & Text Mining**
 
 - 📫 How to reach me **shovon030cse.kuet@gmail.com**
